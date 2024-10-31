@@ -29,5 +29,5 @@ For further learning and development, explore the following resources:
 - [Streamlit Documentation](https://docs.streamlit.io/)
 - [Scikit-Learn Linear Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
 - [calories Dataset](https://github.com/nl-2/Regressor-Calorie-Prediction/blob/master/calories.csv)
-- [calories Dataset]()
+- [calories Dataset](https://github.com/nl-2/Regressor-Calorie-Prediction/blob/master/exercise.csv)
 
