@@ -1,25 +1,32 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 📊 Calories and Exercise Predictor
 
-Description of the app ...
+This application is a Streamlit-based web app designed to predict calories burned during exercise using a Linear Regression model. The app is ideal for users interested in health and fitness data analysis.
 
-## Demo App
+## 🔗 Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+Check out the live app here: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://regreappr-calorie-prediction.streamlit.app/)
 
-## GitHub Codespaces
+## ⚙️ App Features
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/app-starter-kit?quickstart=1)
+- **Prediction Model**: Uses a Linear Regression model to predict the calories burned based on exercise data.
+- **Data Visualization**: Includes visualizations to explore relationships between exercise metrics like duration and intensity.
+- **User-Friendly Interface**: Allows users to input their own exercise data for real-time calorie predictions.
 
-## Section Heading
+## 📈 Model Details
 
-This is filler text, please replace this with text for this section.
+The Linear Regression model is trained on exercise data (`calories_and_exercis.ipynb`) to predict calories burned based on several factors:
 
-## Further Reading
+- **Duration**: How long the exercise lasts
+- **Intensity**: How intense the exercise is
+- **Additional Features**: Other available data in the dataset
 
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
+The app integrates the dataset and model for live, interactive predictions.
+
+## 📚 Resources
+
+For further learning and development, explore the following resources:
+
+- [Streamlit Documentation](https://docs.streamlit.io/)
+- [Scikit-Learn Linear Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
+- [calories Dataset](https://regreappr-calorie-prediction.streamlit.app/)
+
