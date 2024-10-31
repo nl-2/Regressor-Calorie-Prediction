@@ -3,7 +3,7 @@ import numpy as np
 import pickle
 
 # Load the trained model
-model = pickle.load(open('trained_model_calories.sav', 'rb'))
+model = pickle.load(open('trained_model_calores.sav', 'rb'))
 
 # Title of the app
 st.title('Calorie Burn Prediction')
